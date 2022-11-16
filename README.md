@@ -1,6 +1,8 @@
-<h1 align="center"> DOTFILES FLOMASTELA </h1>
 <p align="center"> <img src="https://github.com/iluviums/Dotfiles-Flomastela/blob/main/Screenshot.png"/> </p>
 
-### TEs
-* OS : Debian 11 Bullseye
-* Desktop Environment : XFCE
+### Dotfiles Flomastela
+* Operating System : Debian 11 Bullseye
+* Desktop Environment : XFCE 4.16
+* GTK Theme : Flat Remix
+* Icon Theme : Kora
+* Font : Poppins
