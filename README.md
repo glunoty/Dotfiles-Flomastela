@@ -3,6 +3,6 @@
 ### Dotfiles Flomastela
 * Operating System : Debian 11 Bullseye
 * Desktop Environment : XFCE 4.16
-* GTK Theme : Flat Remix
+* [GTK Theme : Flat Remix](https://github.com/daniruiz/Flat-Remix-GTK)
 * Icon Theme : Kora
 * Font : Poppins
