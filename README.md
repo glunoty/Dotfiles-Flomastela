@@ -3,7 +3,7 @@
 
 ### SETUP
 
-* Desktop Environment : XFCE 4.16
-* Font : [Poppins](https://fonts.google.com/specimen/Poppins)
-* GTK Theme : [Flat Remix](https://github.com/daniruiz/Flat-Remix-GTK)
-* Icon Theme : [Kora](https://github.com/bikass/kora)
+* Desktop Environment : [XFCE 4.16](https://xfce.org/download)
+* Font : [Poppins Regular](https://fonts.google.com/specimen/Poppins)
+* GTK Theme : [Flat Remix Blue Darkest](https://github.com/daniruiz/Flat-Remix-GTK)
+* Icon Theme : [Kora Dark](https://github.com/bikass/kora)
